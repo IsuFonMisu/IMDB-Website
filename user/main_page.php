@@ -23,7 +23,7 @@
                     <li><a href="audience.php">Audience</a></li>
                 </ul>
             </nav>
-            <a class="cta" href="report.php">Report</a>
+            <a class="cta" href="http://localhost/films/chat/chats.php">Report</a>
         </header>
    
     </body>
